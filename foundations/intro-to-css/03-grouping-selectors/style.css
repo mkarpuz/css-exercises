@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.buttons{
+    font-size: 28px;
+    font-family: "Helvetica", "Time New Roman", "sans-serif";
+}
+
+.buttons.yes{
+    background-color: black;
+    color: white;
+}
+
+.buttons.no{
+   background-color: yellow; 
+}
