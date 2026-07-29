@@ -19,13 +19,11 @@ body {
 }
 
 .left-header{
-  outline: 2px solid red;
   display: flex;
 }
 
 
 .rigt-header{
-  outline: 2px solid red;
   display: flex;
   gap: 0.3cm;
   margin-right: 0.5cm;
